@@ -2,6 +2,9 @@
 # minikube-005
 Build a Kubernetes Cluster Locally with Minikube. Deploy and manage apps in Kubernetes.
 
+
+
+
 ### Start Minikube (using Docker driver)
 ```
 minikube start --driver=docker
@@ -10,6 +13,11 @@ minikube start --driver=docker
 ![alt text](screenshots/image-1.png)
 
 ###  Tools - Install kubectl and Minikube
+
+
+
+Versions:
+
 ```
 kubectl version --client
 ```
